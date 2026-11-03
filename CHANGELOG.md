@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Email client autodiscovery: Thunderbird autoconfig endpoints, Outlook
+  Autodiscover, RFC 6186 SRV records, and Docker Compose/Helm deployment
+  support.
+
 ## [0.3.0]
 
 Multi-domain support, improved configuration handling, group address validation, Thunder upgrade to 0.27.0, and removal of legacy socketmap/Thunder integration.
